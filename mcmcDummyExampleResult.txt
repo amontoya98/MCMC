@@ -1,0 +1,25 @@
+Python 3.8.7 (default, Jan 20 2021, 00:00:00) 
+[GCC 10.2.1 20201125 (Red Hat 10.2.1-9)] on linux
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+======== RESTART: /home/andrewmontoya/IntroToPython/MCMC/markovChain.py ========
+After 100 flips, I am 53 steps from origin
+>>> 
+====== RESTART: /home/andrewmontoya/IntroToPython/MCMC/mcmcDummyExample.py =====
+Traceback (most recent call last):
+  File "/home/andrewmontoya/IntroToPython/MCMC/mcmcDummyExample.py", line 24, in <module>
+    for j in trials:
+TypeError: 'int' object is not iterable
+>>> 
+====== RESTART: /home/andrewmontoya/IntroToPython/MCMC/mcmcDummyExample.py =====
+In 1000 trials, I average 49.689 steps from origin
+>>> 
+====== RESTART: /home/andrewmontoya/IntroToPython/MCMC/mcmcDummyExample.py =====
+In 1000 trials, I average 49.911 steps from origin
+>>> 
+====== RESTART: /home/andrewmontoya/IntroToPython/MCMC/mcmcDummyExample.py =====
+In 1000 trials, I average 50.023 steps from origin
+>>> 
+====== RESTART: /home/andrewmontoya/IntroToPython/MCMC/mcmcDummyExample.py =====
+In 10000 trials, I average 50.0407 steps from origin
+>>> 
