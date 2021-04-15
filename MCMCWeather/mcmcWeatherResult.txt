@@ -1,0 +1,102 @@
+Python 3.8.7 (default, Jan 20 2021, 00:00:00) 
+[GCC 10.2.1 20201125 (Red Hat 10.2.1-9)] on linux
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+======== RESTART: /home/andrewmontoya/IntroToPython/MCMC/mcmcWeather.py ========
+['S', ['S'], ['S'], ['S'], ['S'], ['S'], ['S'], ['S'], ['S'], ['S']]
+>>> 
+======== RESTART: /home/andrewmontoya/IntroToPython/MCMC/mcmcWeather.py ========
+['R', ['R'], ['R'], ['R'], ['R'], ['R'], ['R'], ['R'], ['R'], ['R']]
+
+>>> 
+======== RESTART: /home/andrewmontoya/IntroToPython/MCMC/mcmcWeather.py ========
+Traceback (most recent call last):
+  File "/home/andrewmontoya/IntroToPython/MCMC/mcmcWeather.py", line 17, in <module>
+    if days[i-1] == 'S':
+IndexError: list index out of range
+>>> 
+======== RESTART: /home/andrewmontoya/IntroToPython/MCMC/mcmcWeather.py ========
+['S']
+Traceback (most recent call last):
+  File "/home/andrewmontoya/IntroToPython/MCMC/mcmcWeather.py", line 18, in <module>
+    if days[i-1] == 'S':
+IndexError: list index out of range
+>>> 
+======== RESTART: /home/andrewmontoya/IntroToPython/MCMC/mcmcWeather.py ========
+['S']
+1
+2
+3
+Traceback (most recent call last):
+  File "/home/andrewmontoya/IntroToPython/MCMC/mcmcWeather.py", line 19, in <module>
+    if days[i-1] == 'S':
+IndexError: list index out of range
+>>> 
+======== RESTART: /home/andrewmontoya/IntroToPython/MCMC/mcmcWeather.py ========
+['S']
+1
+['S', ['S']]
+2
+['S', ['S']]
+3
+Traceback (most recent call last):
+  File "/home/andrewmontoya/IntroToPython/MCMC/mcmcWeather.py", line 19, in <module>
+    if days[i-1] == 'S':
+IndexError: list index out of range
+>>> 
+======== RESTART: /home/andrewmontoya/IntroToPython/MCMC/mcmcWeather.py ========
+Traceback (most recent call last):
+  File "/home/andrewmontoya/IntroToPython/MCMC/mcmcWeather.py", line 15, in <module>
+    days.append(random.choice(climate))
+AttributeError: 'str' object has no attribute 'append'
+>>> 
+======== RESTART: /home/andrewmontoya/IntroToPython/MCMC/mcmcWeather.py ========
+R
+1
+Traceback (most recent call last):
+  File "/home/andrewmontoya/IntroToPython/MCMC/mcmcWeather.py", line 24, in <module>
+    days += weather
+TypeError: can only concatenate str (not "list") to str
+>>> 
+======== RESTART: /home/andrewmontoya/IntroToPython/MCMC/mcmcWeather.py ========
+Traceback (most recent call last):
+  File "/home/andrewmontoya/IntroToPython/MCMC/mcmcWeather.py", line 15, in <module>
+    print(days)
+NameError: name 'days' is not defined
+>>> 
+======== RESTART: /home/andrewmontoya/IntroToPython/MCMC/mcmcWeather.py ========
+['S', 'R', 'R', 'R', 'R', 'R', 'R', 'R', 'R', 'R']
+>>> 
+======== RESTART: /home/andrewmontoya/IntroToPython/MCMC/mcmcWeather.py ========
+R
+1
+2
+3
+4
+5
+6
+7
+8
+9
+RRSSSSSSSS
+>>> 
+======== RESTART: /home/andrewmontoya/IntroToPython/MCMC/mcmcWeather.py ========
+RSSSSRRSRR
+>>> 
+======== RESTART: /home/andrewmontoya/IntroToPython/MCMC/mcmcWeather.py ========
+Traceback (most recent call last):
+  File "/home/andrewmontoya/IntroToPython/MCMC/mcmcWeather.py", line 31, in <module>
+    probability = calcProbability(string)
+NameError: name 'string' is not defined
+>>> 
+======== RESTART: /home/andrewmontoya/IntroToPython/MCMC/mcmcWeather.py ========
+{'R': 170, 'S': 830}
+>>> 
+======== RESTART: /home/andrewmontoya/IntroToPython/MCMC/mcmcWeather.py ========
+ih
+ih
+{'R': 167, 'S': 833}
+>>> 
+======== RESTART: /home/andrewmontoya/IntroToPython/MCMC/mcmcWeather.py ========
+{'S': 0.861, 'R': 0.139}
+>>> 

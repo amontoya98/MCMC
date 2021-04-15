@@ -1,0 +1,138 @@
+Python 3.8.7 (default, Jan 20 2021, 00:00:00) 
+[GCC 10.2.1 20201125 (Red Hat 10.2.1-9)] on linux
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+========= RESTART: /home/andrewmontoya/IntroToPython/MCMC/monteCarlo.py ========
+Traceback (most recent call last):
+  File "/home/andrewmontoya/IntroToPython/MCMC/monteCarlo.py", line 54, in <module>
+    t = setUp()
+  File "/home/andrewmontoya/IntroToPython/MCMC/monteCarlo.py", line 20, in setUp
+    turt.tracer(1000,25)
+AttributeError: 'Turtle' object has no attribute 'tracer'
+>>> 
+========= RESTART: /home/andrewmontoya/IntroToPython/MCMC/monteCarlo.py ========
+Traceback (most recent call last):
+  File "/home/andrewmontoya/IntroToPython/MCMC/monteCarlo.py", line 54, in <module>
+    t = setUp()
+  File "/home/andrewmontoya/IntroToPython/MCMC/monteCarlo.py", line 21, in setUp
+    turt.speed(fastest)
+NameError: name 'fastest' is not defined
+>>> 
+========= RESTART: /home/andrewmontoya/IntroToPython/MCMC/monteCarlo.py ========
+>>> 
+========= RESTART: /home/andrewmontoya/IntroToPython/MCMC/monteCarlo.py ========
+>>> 
+========= RESTART: /home/andrewmontoya/IntroToPython/MCMC/monteCarlo.py ========
+>>> 
+========= RESTART: /home/andrewmontoya/IntroToPython/MCMC/monteCarlo.py ========
+Traceback (most recent call last):
+  File "/home/andrewmontoya/IntroToPython/MCMC/monteCarlo.py", line 59, in <module>
+    turtle.getscreen().getcanvas().postscripit(file='monteCarloResults.jpg')
+AttributeError: 'ScrolledCanvas' object has no attribute 'postscripit'
+>>> 
+========= RESTART: /home/andrewmontoya/IntroToPython/MCMC/monteCarlo.py ========
+Traceback (most recent call last):
+  File "/home/andrewmontoya/IntroToPython/MCMC/monteCarlo.py", line 59, in <module>
+    turtle.getscreen().getcanvas().postscripit(file='monteCarloResults.ps')
+AttributeError: 'ScrolledCanvas' object has no attribute 'postscripit'
+>>> 
+========= RESTART: /home/andrewmontoya/IntroToPython/MCMC/monteCarlo.py ========
+Traceback (most recent call last):
+  File "/home/andrewmontoya/IntroToPython/MCMC/monteCarlo.py", line 3, in <module>
+    from Tkinter import *
+ModuleNotFoundError: No module named 'Tkinter'
+>>> 
+========= RESTART: /home/andrewmontoya/IntroToPython/MCMC/monteCarlo.py ========
+>>> 
+========= RESTART: /home/andrewmontoya/IntroToPython/MCMC/monteCarlo.py ========
+Traceback (most recent call last):
+  File "/home/andrewmontoya/IntroToPython/MCMC/monteCarlo.py", line 59, in <module>
+    print("Ratio of Approximated Area: ", hits/throws)
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+>>> 
+========= RESTART: /home/andrewmontoya/IntroToPython/MCMC/monteCarlo.py ========
+Ratio of Approximated Area:  0.0
+>>> 
+========= RESTART: /home/andrewmontoya/IntroToPython/MCMC/monteCarlo.py ========
+Ratio of Approximated Area:  0.1453
+>>> 
+========= RESTART: /home/andrewmontoya/IntroToPython/MCMC/monteCarlo.py ========
+Ratio of Approximated Area:  0.0187
+>>> 
+========= RESTART: /home/andrewmontoya/IntroToPython/MCMC/monteCarlo.py ========
+Ratio of Approximated Area:  0.3148
+>>> 
+========= RESTART: /home/andrewmontoya/IntroToPython/MCMC/monteCarlo.py ========
+Approximated Area:  1685.0
+Traceback (most recent call last):
+  File "/home/andrewmontoya/IntroToPython/MCMC/monteCarlo.py", line 61, in <module>
+    print("Actual Area: ", 2*PI*R)
+NameError: name 'R' is not defined
+>>> 
+========= RESTART: /home/andrewmontoya/IntroToPython/MCMC/monteCarlo.py ========
+Approximated Area:  109.0
+Actual Area:  37.699079999999995
+>>> 
+========= RESTART: /home/andrewmontoya/IntroToPython/MCMC/monteCarlo.py ========
+Approximated Area:  4738.0
+Actual Area:  245.04402
+
+>>> 
+========= RESTART: /home/andrewmontoya/IntroToPython/MCMC/monteCarlo.py ========
+Approximated Area:  0.0014
+Actual Area:  12.56636
+>>> 
+========= RESTART: /home/andrewmontoya/IntroToPython/MCMC/monteCarlo.py ========
+Approximated Area:  0.0106
+Actual Area:  37.699079999999995
+>>> 
+========= RESTART: /home/andrewmontoya/IntroToPython/MCMC/monteCarlo.py ========
+Approximated Area:  68000.0
+Actual Area:  94.2477
+>>> 
+========= RESTART: /home/andrewmontoya/IntroToPython/MCMC/monteCarlo.py ========
+Approximated Area:  502200.0
+Actual Area:  2506.98882
+>>> 
+========= RESTART: /home/andrewmontoya/IntroToPython/MCMC/monteCarlo.py ========
+Approximated Area:  66700.0
+Actual Area:  948.76018
+>>> 
+========= RESTART: /home/andrewmontoya/IntroToPython/MCMC/monteCarlo.py ========
+Ratio of Approximated Area:  0.1186
+Ratio of Actual Area:  0.00121265374
+>>> 
+========= RESTART: /home/andrewmontoya/IntroToPython/MCMC/monteCarlo.py ========
+Ratio of Approximated Area:  0.082
+Ratio of Actual Area:  1.0053088000000001
+>>> 
+========= RESTART: /home/andrewmontoya/IntroToPython/MCMC/monteCarlo.py ========
+Ratio of Approximated Area:  0.0833
+Ratio of Actual Area:  0.010304415199999998
+>>> 
+========= RESTART: /home/andrewmontoya/IntroToPython/MCMC/monteCarlo.py ========
+Ratio of Approximated Area:  0.0146
+Ratio of Actual Area:  0.041468988
+>>> 
+========= RESTART: /home/andrewmontoya/IntroToPython/MCMC/monteCarlo.py ========
+Ratio of Approximated Area:  0.5952
+Ratio of Actual Area:  0.59994630071
+>>> 
+========= RESTART: /home/andrewmontoya/IntroToPython/MCMC/monteCarlo.py ========
+Ratio of Approximated Area:  7600.0
+Actual Area:  6082.11824
+>>> 
+========= RESTART: /home/andrewmontoya/IntroToPython/MCMC/monteCarlo.py ========
+Ratio of Approximated Area:  346300.0
+Actual Area:  337984.81856
+>>> 
+========= RESTART: /home/andrewmontoya/IntroToPython/MCMC/monteCarlo.py ========
+Ratio of Approximated Area: 340900.00
+Actual Area: 344195.74
+Percent Error: 0.96
+>>> 
+========= RESTART: /home/andrewmontoya/IntroToPython/MCMC/monteCarlo.py ========
+Ratio of Approximated Area: 235200.00
+Actual Area: 237582.74
+Percent Error: 1.00
+>>> 
