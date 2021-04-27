@@ -1,0 +1,273 @@
+Python 3.8.7 (default, Jan 20 2021, 00:00:00) 
+[GCC 10.2.1 20201125 (Red Hat 10.2.1-9)] on linux
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+= RESTART: /home/andrewmontoya/IntroToPython/MCMC/MCMCDummy/mcmcDummyExample.py
+In 10000 trials, I average 49.9077 steps from origin
+10.871895348980747 70.58000478549147
+
+= RESTART: /home/andrewmontoya/IntroToPython/MCMC/MCMCDummy/mcmcDummyExample.py
+In 10000 trials, I average 50.0344 steps from origin
+33 0.0006
+34 0.0002
+35 0.0016
+36 0.0017
+37 0.003
+38 0.0043
+39 0.0073
+40 0.0109
+41 0.0174
+42 0.0204
+43 0.0303
+44 0.038
+45 0.0451
+46 0.0602
+47 0.0684
+48 0.0698
+49 0.0756
+50 0.0763
+51 0.0796
+52 0.0774
+53 0.0672
+54 0.0587
+55 0.051
+56 0.0371
+57 0.0279
+58 0.0249
+59 0.0155
+60 0.0101
+61 0.0081
+62 0.0047
+63 0.0035
+64 0.002
+65 0.0004
+66 0.0003
+67 0.0002
+68 0.0002
+69 0.0001
+10.720652189116109 70.75918564384415
+>>> 
+= RESTART: /home/andrewmontoya/IntroToPython/MCMC/MCMCDummy/mcmcDummyExample.py
+In 10000 trials, I average 49.9585 steps from origin
+31 0.0002
+32 0.0001
+33 0.0005
+34 0.0005
+35 0.0013
+36 0.0013
+37 0.0021
+38 0.0059
+39 0.0081
+40 0.0098
+41 0.0175
+42 0.022
+43 0.0336
+44 0.0398
+45 0.0485
+46 0.0562
+47 0.0635
+48 0.0729
+49 0.0785
+50 0.0764
+51 0.0821
+52 0.0703
+53 0.0669
+54 0.0594
+55 0.0489
+56 0.0358
+57 0.029
+58 0.0222
+59 0.017
+60 0.0108
+61 0.0077
+62 0.0051
+63 0.003
+64 0.0015
+65 0.0008
+66 0.0005
+67 0.0002
+69 0.0001
+11.019804475173444 26.928747547927287
+>>> 
+=================== RESTART: /home/andrewmontoya/IntroToPython/MCMC/MCMCDummy/mcmcDummyExample.py ==================
+In 10000 trials, I average 50.0595 steps from origin
+33 0.0001
+34 0.0005
+35 0.0005
+36 0.0018
+37 0.0021
+38 0.0045
+39 0.0076
+40 0.0103
+41 0.017
+42 0.0216
+43 0.0292
+44 0.0383
+45 0.0485
+46 0.0571
+47 0.0693
+48 0.073
+49 0.0759
+50 0.077
+51 0.0815
+52 0.0718
+53 0.0695
+54 0.0525
+55 0.0506
+56 0.0397
+57 0.0309
+58 0.0222
+59 0.0161
+60 0.0115
+61 0.0069
+62 0.0054
+63 0.0027
+64 0.0026
+65 0.0005
+66 0.0005
+67 0.0005
+69 0.0003
+69
+69
+10.446778409581055 26.785911978127608
+>>> 
+=================== RESTART: /home/andrewmontoya/IntroToPython/MCMC/MCMCDummy/mcmcDummyExample.py ==================
+In 10000 trials, I average 49.9624 steps from origin
+69
+69
+10.494506096260293 26.92323211503403
+>>> 
+=================== RESTART: /home/andrewmontoya/IntroToPython/MCMC/MCMCDummy/mcmcDummyExample.py ==================
+In 10000 trials, I average 49.9737 steps from origin
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+71
+11.074069860216134 68.26515131617303
+>>> 
+=================== RESTART: /home/andrewmontoya/IntroToPython/MCMC/MCMCDummy/mcmcDummyExample.py ==================
+In 10000 trials, I average 49.9629 steps from origin
+11.555884925439504 73.08583348638776
+>>> 
+=================== RESTART: /home/andrewmontoya/IntroToPython/MCMC/MCMCDummy/mcmcDummyExample.py ==================
+In 10000 trials, I average 50.0774 steps from origin
+10.40432878309152 62.425972698549124
+
+=================== RESTART: /home/andrewmontoya/IntroToPython/MCMC/MCMCDummy/mcmcDummyExample.py ==================
+In 10000 trials, I average 49.9538 steps from origin
+11.023592294328516 1.7882628079520948
+>>> 
+=================== RESTART: /home/andrewmontoya/IntroToPython/MCMC/MCMCDummy/mcmcDummyExample.py ==================
+In 10000 trials, I average 49.9776 steps from origin
+11.022495498894878 11.022495498894878
+
+=================== RESTART: /home/andrewmontoya/IntroToPython/MCMC/MCMCDummy/mcmcDummyExample.py ==================
+In 10000 trials, I average 49.9185 steps from origin
+11.621418166416607 0.2328078401077077
+>>> 
+=================== RESTART: /home/andrewmontoya/IntroToPython/MCMC/MCMCDummy/mcmcDummyExample.py ==================
+In 10000 trials, I average 50.0428 steps from origin
+11.026023773829467 0.2203318713946755
+
+=================== RESTART: /home/andrewmontoya/IntroToPython/MCMC/MCMCDummy/mcmcDummyExample.py ==================
+In 10000 trials, I average 49.9574 steps from origin
+10.549280295830615 0.2111655189387481
+>>> 
+=================== RESTART: /home/andrewmontoya/IntroToPython/MCMC/MCMCDummy/mcmcDummyExample.py ==================
+In 10000 trials, I average 49.9958 steps from origin
+10.977441306606927 10.977441306606927
+
+=================== RESTART: /home/andrewmontoya/IntroToPython/MCMC/MCMCDummy/mcmcDummyExample.py ==================
+In 10000 trials, I average 49.9751 steps from origin
+11.340787044082557 11.489038918613737
+
+=================== RESTART: /home/andrewmontoya/IntroToPython/MCMC/MCMCDummy/mcmcDummyExample.py ==================
+In 10000 trials, I average 49.9353 steps from origin
+>>> 
+=================== RESTART: /home/andrewmontoya/IntroToPython/MCMC/MCMCDummy/mcmcDummyExample.py ==================
+In 10000 trials, I average 50.0869 steps from origin
+>>> 
+=================== RESTART: /home/andrewmontoya/IntroToPython/MCMC/MCMCDummy/mcmcDummyExample.py ==================
+In 10000 trials, I average 49.9587 steps from origin
+
+>>> 
+=================== RESTART: /home/andrewmontoya/IntroToPython/MCMC/MCMCDummy/mcmcDummyExample.py ==================
+In 10000 trials, I average 49.9634 steps from origin
+>>> 
+=================== RESTART: /home/andrewmontoya/IntroToPython/MCMC/MCMCDummy/mcmcDummyExample.py ==================
+In 10000 trials, I average 49.8846 steps from origin
+>>> 
+=================== RESTART: /home/andrewmontoya/IntroToPython/MCMC/MCMCDummy/mcmcDummyExample.py ==================
+In 10000 trials, I average 49.9697 steps from origin
+
+=================== RESTART: /home/andrewmontoya/IntroToPython/MCMC/MCMCDummy/mcmcDummyExample.py ==================
+In 10000 trials, I average 49.9359 steps from origin
+11.392935331891719 =Before
+-3.383058320380063 =After
+>>> 
+=================== RESTART: /home/andrewmontoya/IntroToPython/MCMC/MCMCDummy/mcmcDummyExample.py ==================
+In 10000 trials, I average 50.0102 steps from origin
+11.426561114867189 =Before
+3.3766623656290893 =After
+>>> 
+=================== RESTART: /home/andrewmontoya/IntroToPython/MCMC/MCMCDummy/mcmcDummyExample.py ==================
+In 10000 trials, I average 49.9742 steps from origin
+117.05611428864864 =Before
+6.200238502041358 =After
+>>> 
+=================== RESTART: /home/andrewmontoya/IntroToPython/MCMC/MCMCDummy/mcmcDummyExample.py ==================
+In 10000 trials, I average 50.0215 steps from origin
+108.18862891666667 =Before
+5.592253106099092 =After
+>>> 
+=================== RESTART: /home/andrewmontoya/IntroToPython/MCMC/MCMCDummy/mcmcDummyExample.py ==================
+In 10000 trials, I average 50.0371 steps from origin
+
+=================== RESTART: /home/andrewmontoya/IntroToPython/MCMC/MCMCDummy/mcmcDummyExample.py ==================
+In 10000 trials, I average 49.9088 steps from origin
+>>> 
+=================== RESTART: /home/andrewmontoya/IntroToPython/MCMC/MCMCDummy/mcmcDummyExample.py ==================
+In 10000 trials, I average 49.9609 steps from origin
+>>> 
+=================== RESTART: /home/andrewmontoya/IntroToPython/MCMC/MCMCDummy/mcmcDummyExample.py ==================
+In 10000 trials, I average 50.0402 steps from origin
+>>> 
+=================== RESTART: /home/andrewmontoya/IntroToPython/MCMC/MCMCDummy/mcmcDummyExample.py ==================
+In 10000 trials, I average 50.0892 steps from origin
+>>> 
+=================== RESTART: /home/andrewmontoya/IntroToPython/MCMC/MCMCDummy/mcmcDummyExample.py ==================
+In 10000 trials, I average 49.9603 steps from origin

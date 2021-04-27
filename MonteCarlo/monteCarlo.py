@@ -59,7 +59,7 @@ hits = throwDarts(throws, t, radius)
 
 area_t = PI*(radius**2)
 area_obs = (hits/throws)*(1000**2)
-print("Ratio of Approximated Area: {:.2f}".format(area_obs))
+print("Approximated Area: {:.2f}".format(area_obs))
 print("Actual Area: {:.2f}".format(area_t))
 error = ( abs(area_t - area_obs) / area_t )* 100
 print("Percent Error: {:.2f}".format(error))

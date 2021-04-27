@@ -136,3 +136,8 @@ Ratio of Approximated Area: 235200.00
 Actual Area: 237582.74
 Percent Error: 1.00
 >>> 
+=== RESTART: /home/andrewmontoya/IntroToPython/MCMC/MonteCarlo/monteCarlo.py ===
+Approximated Area: 429600.00
+Actual Area: 425446.68
+Percent Error: 0.98
+>>> 
